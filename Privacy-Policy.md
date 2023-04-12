@@ -1,5 +1,5 @@
 ### Privacy Policy for IOTCS System App
-----------------
+---
 
 ### 1. Information We Collect
 
